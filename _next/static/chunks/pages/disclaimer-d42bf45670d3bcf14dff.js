@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[11],{"3Hmo":function(n,o,i){"use strict";i.r(o),i.d(o,"default",(function(){return _}));var t=i("nKUr"),u=i("5pGj");function _(){return Object(t.jsx)(u.a,{})}},OV9W:function(n,o,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/disclaimer",function(){return i("3Hmo")}])}},[["OV9W",1,2,0]]]);
